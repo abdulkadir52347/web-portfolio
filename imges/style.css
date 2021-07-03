@@ -17,9 +17,9 @@ p{
 }
 
 .half-width{ 
-    width: 37%;
+    width: 40%;
     float: left;
-    margin: 5%;
+    margin-left: 5%;
     padding-left: 2%;
     background-color: white;
 }
